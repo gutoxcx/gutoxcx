@@ -14,7 +14,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,mysql,mongodb,git" />
 </p>
-<br></br>
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutoxcx&layout=compact&theme=jolly" alt="Top Languages">
 </p>
