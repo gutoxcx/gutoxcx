@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👨‍💻 sobre mim
+- 🎓 estudante de informática no ifpi
+- 🔭 atualmente aprendendo java
+- ⚡ explorando o universo do back-end, com planos de me tornar full stack
 
-<!--
-**gutoxcx/gutoxcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌎 connect with me
+<a href="https://www.instagram.com/augustoxcx" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="mailto:joaoaugustoxcx@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<br></br>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,mongodb,git" />
+</p>
+<br></br>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutoxcx&layout=compact&theme=jolly" alt="Top Languages">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
