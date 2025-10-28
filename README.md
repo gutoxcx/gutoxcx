@@ -12,7 +12,7 @@
 </a>
 <br></br>
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,mongodb,git,cpp" />
 </p>
 
 <p>
